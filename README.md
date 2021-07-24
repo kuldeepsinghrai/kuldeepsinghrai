@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imkuldeeprai" target="blank"><img align="center" src="/icons/twitter.png" alt="twitter" height="30"/></a>
-<a href="https://instagram.com/imkuldeepsinghrai" target="blank"><img align="center" src="icons/instagram.png" alt="instagram" height="30" /></a>
+<a href="https://instagram.com/kuldeepsinghrai.in" target="blank"><img align="center" src="icons/instagram.png" alt="instagram" height="30" /></a>
 <a href="https://linkedin.com/in/imkuldeepsinghrai" target="blank"><img align="center" src="icons/linkedin.png" alt="linkedin" height="30" /></a>
 <a href="https://fb.com/imkuldeepsinghrai" target="blank"><img align="center" src="icons/facebook.png" alt="facebook" height="30" /></a>
 <a href="https://www.hackerrank.com/kuldeepsinghrai" target="blank"><img align="center" src="icons/hackerrank.png" alt="hackerrank" height="30" /></a>
