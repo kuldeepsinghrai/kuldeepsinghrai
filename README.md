@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imkuldeeprai" target="blank"><img src="https://img.shields.io/twitter/follow/imkuldeeprai?logo=twitter&style=for-the-badge" alt="imkuldeeprai" /></a> </p>
 
-- 📫 How to reach me **imkuldeepsinghrai@gmail.com** **kuldeepsinghrai@protonmail.com**
+- 📫 How to reach me **imkuldeepsinghrai@gmail.com**, **kuldeepsinghrai@protonmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
