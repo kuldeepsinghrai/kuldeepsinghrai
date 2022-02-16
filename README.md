@@ -25,8 +25,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepsinghrai&theme=light&hide_langs_below=1" />
 </a>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepsinghrai&show_icons=true&locale=en" alt="kuldeepsinghrai" /></p>
+<a href="https://github.com/kuldeepsinghrai">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepsinghrai&show_icons=true&theme=light&line_height=27" alt="Kuldeep's github stats"/>
+</a>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepsinghrai&" alt="kuldeepsinghrai" /></p>
