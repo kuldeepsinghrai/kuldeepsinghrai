@@ -20,7 +20,10 @@
 <a href="https://www.hackerrank.com/kuldeepsinghrai" target="blank"><img align="center" src="icons/hackerrank.png" alt="hackerrank" height="30" /></a>
 </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepsinghrai&show_icons=true&locale=en&layout=compact" alt="kuldeepsinghrai" /></p> 
+
+<a href="https://github.com/kuldeepsinghrai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepsinghrai&theme=light&hide_langs_below=1" />
+</a>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepsinghrai&show_icons=true&locale=en" alt="kuldeepsinghrai" /></p>
