@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kuldeep Singh Rai</h1>
-<h3 align="center">A passionate developer from India</h3>
+## Hey, I'm [Kuldeep Singh Rai!](https://kuldeepsinghrai.github.io) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkuldeepsinghrai&label=Profile%20views&color=0e75b6&style=flat" alt="imkuldeepsinghrai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imkuldeepsinghrai" alt="imkuldeepsinghrai" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imkuldeeprai" target="blank"><img src="https://img.shields.io/twitter/follow/imkuldeeprai?logo=twitter&style=for-the-badge" alt="imkuldeeprai" /></a> </p>
 
