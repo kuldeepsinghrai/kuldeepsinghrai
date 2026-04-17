@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Applications<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning kubernetes<br>💬 Ask me about Android, Kotlin or Jetpack Compose
+🔭 I’m currently working on Android Applications<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning KMP<br>💬 Ask me about Android, Kotlin or Jetpack Compose
 
 
 ## 🌐 Socials:
